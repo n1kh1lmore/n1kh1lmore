@@ -9,15 +9,11 @@ You can click the Preview link to take a look at your changes.
 
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=n1kh1lmore&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)![Nikhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=n1kh1lmore&show_icons=true&theme=radical)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=n1kh1lmore&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+![Nikhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=n1kh1lmore&show_icons=true&theme=radical)
 
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=n1kh1lmore&repo=vaccine-update)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=n1kh1lmore&repo=python-gui-calculator)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
