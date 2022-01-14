@@ -31,6 +31,9 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
+### I create blog posts and open source packages mainly about python and data engineering.  I have a passion for learning and sharing my knowledge with others in a way that's as public as possible. If you found value in something I have created, please feel free to send a [tip](https://www.buymeacoffee.com/nikhilmore)
+
+
 - 🔭 I’m currently working on **Bluetooth Terminal App**
 
 - 🌱 I’m currently learning **ReactJS**
