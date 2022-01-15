@@ -57,7 +57,8 @@ You can click the Preview link to take a look at your changes.
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=n1kh1lmore)](https://github.com/n1kh1lmore/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=n1kh1lmore&layout=compact)](https://github.com/n1kh1lmore/github-readme-stats)
 
 
 
