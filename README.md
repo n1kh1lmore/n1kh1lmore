@@ -36,7 +36,7 @@ You can click the Preview link to take a look at your changes.
 
 - 🔭 I’m currently working on **Bluetooth Terminal App**
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **Flutter**
 
 - 📫 How to reach me **Nikhilm@sjcem.edu.in**
 
