@@ -94,3 +94,6 @@ using Machine Learning
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=n1kh1lmore)](https://github.com/n1kh1lmore/github-readme-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=n1kh1lmore&exclude_repo=github-readme-stats,n1kh1lmore.github.io)](https://github.com/n1kh1lmore/github-readme-stats)
