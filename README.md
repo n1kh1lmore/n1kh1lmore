@@ -90,3 +90,7 @@ using Machine Learning
 
 <h3 align="left">🙋🏻 Support:</h3>
 <p><a href="https://www.buymeacoffee.com/nikhilmore"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="nikhilmore" /></a></p>
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=n1kh1lmore)](https://github.com/n1kh1lmore/github-readme-stats)
