@@ -78,7 +78,7 @@ using Machine Learning
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=n1kh1lmore&langs_count=8&layout=compact)](https://github.com/n1kh1lmore/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=n1kh1lmore&exclude_repo=Task_1,Nikhil-Pradip-More,todos&langs_count=8&layout=compact)](https://github.com/n1kh1lmore/github-readme-stats)
 
 
 
