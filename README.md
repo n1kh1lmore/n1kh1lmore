@@ -39,7 +39,7 @@ using Machine Learning
 
 - 🌱 I’m currently learning **Flutter**
 
-- 📫 How to reach me **Nikhilm@sjcem.edu.in**
+- 📫 How to reach me **Nikupcm10@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
