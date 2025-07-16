@@ -1,99 +1,114 @@
+# 👋 Hey there, I'm Nikhil Pradip More
 
-<!---
-n1kh1lmore/n1kh1lmore is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to view your changes.
---->
+🚀 Full-Stack Flutter Developer | 📱 Android & iOS App Engineer | 🤖 AI/ML Enthusiast  
+💼 Freelancer · Consultant · Product-Focused Developer
 
+---
 
-# Hi there, I'm Nikhil Pradip More 👋
+### 👨‍💻 About Me
 
-<h3 align="left">Connect with me:</h3>
+I'm a results-driven **Full-Stack App Developer** with 3+ years of experience building scalable, high-performance mobile apps for **Android**, **iOS**, and **Web** using Flutter & Dart.
+
+#### 🧠 Highlights:
+- 🌐 Full mobile lifecycle: design → development → Play Store/App Store deployment
+- 🔗 Backend expertise: **Java**, **Spring Boot**, **Hibernate**, **Firebase**, **REST APIs**
+- 💬 Integrated **real-time communication** (chat, notifications, sync, etc.)
+- 🧱 Architecture: MVVM, MVC, Clean Architecture principles
+- ⚙️ State Management: Provider, BLoC (and previously used GetX, Riverpod)
+- 💡 AI/ML: Python, TensorFlow, OpenAI, Sklearn – building intelligent mobile features
+- 🛠️ Consulting for startups, mentoring devs & shipping production-ready apps
+
+---
+
+### 🚀 Published Mobile Apps
+
+📱 [GramGains – Instagram Engagement Booster](https://play.google.com/store/apps/details?id=com.nkmetaverse.gramgains)  
+🧠 [CapGen AI – AI Caption Generator + Analytics](https://play.google.com/store/apps/details?id=com.nkmetaverse.capgenai)
+
+Available on the **Google Play Store** | Built with **Flutter**, **Firebase**, **AI Models**, **Realtime Communication**
+
+---
+
+### 🌐 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nikhilmore---/)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/perfect_jarvis)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/nikhilmore___/)
+[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/nikh1lmore)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/YOUR_USERNAME)
+[![Buy Me a Coffee](https://img.shields.io/badge/-Buy%20me%20a%20coffee-F7C52B?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/nikhilmore)
+
+💼 Freelancing Profiles (Coming Soon):  
+[![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=freelancer&logoColor=white)](#)
+[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](#)
+
+---
+
+### 🛠️ Tech Stack & Tools
+
 <p align="left">
-<a href="https://twitter.com/perfect_jarvis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="perfect_jarvis" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/nikhilmore---" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikhilmore---" height="30" width="40" /></a>
-<a href="https://instagram.com/nikhilmore___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nikhilmore___" height="30" width="40" /></a>
-<!-- <a href="https://www.hackerearth.com/n1kh1lmore" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="n1kh1lmore" height="30" width="40" /></a> -->
+
+<!-- Mobile Platforms -->
+<a href="https://flutter.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40"/></a>
+<a href="https://developer.android.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="Android" width="40"/></a>
+<a href="https://developer.apple.com/ios/" target="_blank"><img src="https://img.icons8.com/ios-filled/50/000000/ios-logo.png" alt="iOS" width="40"/></a>
+
+<!-- Languages -->
+<a href="https://dart.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40"/></a>
+<a href="https://kotlinlang.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" width="40"/></a>
+<a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40"/></a>
+<a href="https://www.java.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40"/></a>
+<a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40"/></a>
+<a href="https://www.sqlite.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40"/></a>
+
+<!-- Backend -->
+<a href="https://spring.io/projects/spring-boot" target="_blank"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="40"/></a>
+<a href="https://hibernate.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Hibernate_logo_a.png" alt="Hibernate" width="40"/></a>
+<a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40"/></a>
+
+<!-- Tools -->
+<a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40"/></a>
+<a href="https://github.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40"/></a>
+<a href="https://codemagic.io/" target="_blank"><img src="https://avatars.githubusercontent.com/u/47602533?s=200&v=4" alt="Codemagic" width="40"/></a>
+<a href="https://figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40"/></a>
+
+<!-- AI/ML -->
+<a href="https://www.tensorflow.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40"/></a>
+<a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40"/></a>
+<a href="https://matplotlib.org/" target="_blank"><img src="https://matplotlib.org/_static/images/logo2.svg" alt="Matplotlib" width="40"/></a>
+<a href="https://jupyter.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="Jupyter" width="40"/></a>
+
 </p>
 
-<!-- ![Buymeacoffee](https://www.buymeacoffee.com/NikhilMore)
- -->
+---
 
+### 📊 GitHub Stats
 
-
-
-
-
-<!-- [![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/nikhilmore---/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/nikhilmore___/) -->
-[![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=Blogger&logoColor=white)](https://www.instagram.com/nikhilmore___/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/nikh1lmore)
-<!---[![Instagram](https://img.shields.io/badge/Apple-000000?style=for-the-badge&logo=Apple&logoColor=white)](https://www.instagram.com/nikhilmore___/)
---->
-
-
-### I create blog posts and open source packages mainly about python and data engineering.  I have a passion for learning and sharing my knowledge with others in a way that's as public as possible. If you found value in something I have created, please feel free to send a [tip](https://www.buymeacoffee.com/nikhilmore)
-
-
-- 🔭 I’m currently working on **Multiple Health Disease Prediction System** 
-using Machine Learning
-
-- 🌱 I’m currently learning **Flutter**
-
-- 📫 How to reach me **Nikupcm10@gmail.com**
-
-
-<h3 align="left">Languages and Tools:</h3>
-<a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> 
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
- <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
- <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
- <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>  
- <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-
- <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> 
-<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>  </p>
-
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
-<a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> 
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-
-
-<a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>  
-<a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> 
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
- 
-
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-
-
-
-
-
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=n1kh1lmore&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 ![Nikhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=n1kh1lmore&show_icons=true&theme=radical)
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=n1kh1lmore&theme=tokyonight)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=n1kh1lmore&layout=compact&langs_count=8&exclude_repo=Task_1)](https://github.com/n1kh1lmore/github-readme-stats)
+
+---
+
+### ☕ Support My Work
+
+If you found value in my open-source work, tools, or insights, feel free to show support:  
+
+<a href="https://www.buymeacoffee.com/nikhilmore" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee"/>
+</a>
+
+---
+
+![Visitor Badge](https://komarev.com/ghpvc/?username=n1kh1lmore&color=green)
 
 
+---
 
+### 💬 Consulting & Collaboration
 
+I'm open to **consulting for startups**, helping organizations **ship mobile products**, or contributing to **AI-integrated mobile solutions**.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=n1kh1lmore&exclude_repo=Task_1,Nikhil-Pradip-More,todos&langs_count=8&layout=compact)](https://github.com/n1kh1lmore/github-readme-stats)
-
-
-
-
-
-![](https://komarev.com/ghpvc/?username=n1kh1lmore&color=green)
-
-
-
-
-<h3 align="left">🙋🏻 Support:</h3>
-<p><a href="https://www.buymeacoffee.com/nikhilmore"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="nikhilmore" /></a></p>
+Let’s build something meaningful 🚀
