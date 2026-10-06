@@ -1,10 +1,10 @@
-<h1 align="center">Hi, I'm Nikhil More 👋</h1>
+# Hi, I'm Nikhil More 👋
 
-<p align="center">
-  <b>FinTech engineer by day · indie app maker by night</b><br/>
-  I build payment and fraud-risk systems at work, and ship my own Android & iOS apps under
-  <a href="https://www.seedtocode.com">SeedToCode</a>, with 100K+ downloads so far.
-</p>
+**FinTech engineer by day · indie app maker by night**
+
+I build payment and fraud-risk systems at work, and I ship my own Android & iOS apps under [SeedToCode](https://www.seedtocode.com), my product studio. Those apps have passed 100K+ downloads so far.
+
+🌐 **Website:** [www.seedtocode.com](https://www.seedtocode.com)
 
 <p align="center">
   <a href="https://www.seedtocode.com"><img src="https://img.shields.io/badge/SeedToCode-website-1f6f43?style=flat-square" alt="SeedToCode"/></a>
@@ -18,7 +18,7 @@
 ### What I work on
 
 - 💳 **Payments & fraud risk** — backend engineering on payment gateway and fraud risk management (FRMS) systems, mostly Java and Spring Boot.
-- 📱 **My own apps** — I design, build and publish apps end to end through SeedToCode: Flutter on Android, plus iOS.
+- 📱 **My own apps** — I design, build and publish apps end to end through [SeedToCode](https://www.seedtocode.com): Flutter on Android, plus iOS.
 - 🤖 **AI in products** — prompt libraries, caption generation, virtual try-on; AI where it actually earns its place.
 - 🏪 **Business systems** — custom software for local businesses, like the inventory and staff-attendance system running daily operations at [Nil Nakshatra Electricals](https://www.nilnakshatraelectricals.com/).
 
@@ -70,6 +70,4 @@ Most of my production work (the apps above and my day-job systems) lives in priv
 
 ---
 
-<p align="center">
-  Building something and need it shipped? <a href="https://www.seedtocode.com">Let's talk</a>.
-</p>
+**Building something and need it shipped?** Mobile apps, AI tools and custom business software — [visit SeedToCode](https://www.seedtocode.com) to see my work or start a project.
