@@ -1,114 +1,75 @@
-# 👋 Hey there, I'm Nikhil Pradip More
+<h1 align="center">Hi, I'm Nikhil More 👋</h1>
 
-🚀 Full-Stack Flutter Developer | 📱 Android & iOS App Engineer | 🤖 AI/ML Enthusiast  
-💼 Freelancer · Consultant · Product-Focused Developer
+<p align="center">
+  <b>FinTech engineer by day · indie app maker by night</b><br/>
+  I build payment and fraud-risk systems at work, and ship my own Android & iOS apps under
+  <a href="https://www.seedtocode.com">SeedToCode</a>, with 100K+ downloads so far.
+</p>
 
----
-
-### 👨‍💻 About Me
-
-I'm a results-driven **Full-Stack App Developer** with 3+ years of experience building scalable, high-performance mobile apps for **Android**, **iOS**, and **Web** using Flutter & Dart.
-
-#### 🧠 Highlights:
-- 🌐 Full mobile lifecycle: design → development → Play Store/App Store deployment
-- 🔗 Backend expertise: **Java**, **Spring Boot**, **Hibernate**, **Firebase**, **REST APIs**
-- 💬 Integrated **real-time communication** (chat, notifications, sync, etc.)
-- 🧱 Architecture: MVVM, MVC, Clean Architecture principles
-- ⚙️ State Management: Provider, BLoC (and previously used GetX, Riverpod)
-- 💡 AI/ML: Python, TensorFlow, OpenAI, Sklearn – building intelligent mobile features
-- 🛠️ Consulting for startups, mentoring devs & shipping production-ready apps
-
----
-
-### 🚀 Published Mobile Apps
-
-📱 [GramGains – Instagram Engagement Booster](https://play.google.com/store/apps/details?id=com.nkmetaverse.gramgains)  
-🧠 [CapGen AI – AI Caption Generator + Analytics](https://play.google.com/store/apps/details?id=com.nkmetaverse.capgenai)
-
-Available on the **Google Play Store** | Built with **Flutter**, **Firebase**, **AI Models**, **Realtime Communication**
-
----
-
-### 🌐 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nikhilmore---/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/perfect_jarvis)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/nikhilmore___/)
-[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/nikh1lmore)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/YOUR_USERNAME)
-[![Buy Me a Coffee](https://img.shields.io/badge/-Buy%20me%20a%20coffee-F7C52B?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/nikhilmore)
-
-💼 Freelancing Profiles (Coming Soon):  
-[![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=freelancer&logoColor=white)](#)
-[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](#)
-
----
-
-### 🛠️ Tech Stack & Tools
-
-<p align="left">
-
-<!-- Mobile Platforms -->
-<a href="https://flutter.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40"/></a>
-<a href="https://developer.android.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="Android" width="40"/></a>
-<a href="https://developer.apple.com/ios/" target="_blank"><img src="https://img.icons8.com/ios-filled/50/000000/ios-logo.png" alt="iOS" width="40"/></a>
-
-<!-- Languages -->
-<a href="https://dart.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40"/></a>
-<a href="https://kotlinlang.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" width="40"/></a>
-<a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40"/></a>
-<a href="https://www.java.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40"/></a>
-<a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40"/></a>
-<a href="https://www.sqlite.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40"/></a>
-
-<!-- Backend -->
-<a href="https://spring.io/projects/spring-boot" target="_blank"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="40"/></a>
-<a href="https://hibernate.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Hibernate_logo_a.png" alt="Hibernate" width="40"/></a>
-<a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40"/></a>
-
-<!-- Tools -->
-<a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40"/></a>
-<a href="https://github.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40"/></a>
-<a href="https://codemagic.io/" target="_blank"><img src="https://avatars.githubusercontent.com/u/47602533?s=200&v=4" alt="Codemagic" width="40"/></a>
-<a href="https://figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40"/></a>
-
-<!-- AI/ML -->
-<a href="https://www.tensorflow.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40"/></a>
-<a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40"/></a>
-<a href="https://matplotlib.org/" target="_blank"><img src="https://matplotlib.org/_static/images/logo2.svg" alt="Matplotlib" width="40"/></a>
-<a href="https://jupyter.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="Jupyter" width="40"/></a>
-
+<p align="center">
+  <a href="https://www.seedtocode.com"><img src="https://img.shields.io/badge/SeedToCode-website-1f6f43?style=flat-square" alt="SeedToCode"/></a>
+  <a href="https://nikhilmore.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-nikhilmore.vercel.app-111111?style=flat-square" alt="Portfolio"/></a>
+  <a href="https://in.linkedin.com/in/nikhilmore---"><img src="https://img.shields.io/badge/LinkedIn-Nikhil%20More-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:Nikupcm10@gmail.com"><img src="https://img.shields.io/badge/Email-Nikupcm10%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### What I work on
 
-![Nikhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=n1kh1lmore&show_icons=true&theme=radical)
+- 💳 **Payments & fraud risk** — backend engineering on payment gateway and fraud risk management (FRMS) systems, mostly Java and Spring Boot.
+- 📱 **My own apps** — I design, build and publish apps end to end through SeedToCode: Flutter on Android, plus iOS.
+- 🤖 **AI in products** — prompt libraries, caption generation, virtual try-on; AI where it actually earns its place.
+- 🏪 **Business systems** — custom software for local businesses, like the inventory and staff-attendance system running daily operations at [Nil Nakshatra Electricals](https://www.nilnakshatraelectricals.com/).
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=n1kh1lmore&theme=tokyonight)](https://git.io/streak-stats)
+### Apps I've shipped
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=n1kh1lmore&layout=compact&langs_count=8&exclude_repo=Task_1)](https://github.com/n1kh1lmore/github-readme-stats)
+| App | What it does | Platform | Traction |
+|---|---|---|---|
+| [**Prompt Saver**](https://www.seedtocode.com/apps/prompt-saver) | Library of 1000+ curated AI image prompts | Android | **100K+ downloads** · ⭐ 4.4 |
+| [**Gainify**](https://www.seedtocode.com/apps/gainify) | AI analytics and engagement insights for Instagram creators | Android | 1K+ downloads |
+| [**Japa Mala Counter**](https://www.seedtocode.com/apps/japa-mala-counter) | Distraction-free digital naam jap counter | Android | 1K+ downloads |
+| [**CapGen AI**](https://www.seedtocode.com/apps/capgen-ai) | Context-aware AI caption generator for social posts | Android | ⭐ 5.0 |
+| [**Remy AI**](https://www.seedtocode.com/apps/remy-ai) | AI virtual outfit try-on from any shopping app | Android | New |
+| [**Arrow Puzzle: Ink Maze**](https://www.seedtocode.com/apps/arrow-puzzle-ink-maze) | Relaxing arrow-sliding logic puzzle with daily challenges | iOS | New |
+| [**Ovelle**](https://www.seedtocode.com/apps/ovelle) | Private period, ovulation and pregnancy tracker | iOS | Coming soon |
+
+### Research
+
+📄 **Deep Learning-Based Sign Language Recognition and Translation** — published by Springer, 2023 · [read it](https://link.springer.com/chapter/10.1007/978-981-99-3608-3_4)
+
+### Tech I use
+
+**Backend** &nbsp;
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+
+**Mobile** &nbsp;
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+**AI / ML** &nbsp;
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white)
+
+**Web** &nbsp;
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+### A note on my repos
+
+Most of my production work (the apps above and my day-job systems) lives in private repositories. What's public here is mostly earlier learning projects. If you'd like to see how I build, the apps themselves are the best place to look, and I'm happy to walk through code on a call.
 
 ---
 
-### ☕ Support My Work
-
-If you found value in my open-source work, tools, or insights, feel free to show support:  
-
-<a href="https://www.buymeacoffee.com/nikhilmore" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee"/>
-</a>
-
----
-
-![Visitor Badge](https://komarev.com/ghpvc/?username=n1kh1lmore&color=green)
-
-
----
-
-### 💬 Consulting & Collaboration
-
-I'm open to **consulting for startups**, helping organizations **ship mobile products**, or contributing to **AI-integrated mobile solutions**.
-
-Let’s build something meaningful 🚀
+<p align="center">
+  Building something and need it shipped? <a href="https://www.seedtocode.com">Let's talk</a>.
+</p>
